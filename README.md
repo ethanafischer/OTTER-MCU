@@ -1,7 +1,5 @@
 # OTTER-MCU
-#### Final project for CPE 233: Computer Design and Assembly Language Programming.
-
-Designing a 32-bit RISC-V processor in Verilog, called the OTTER.
+Designing a 32-bit RISC-V processor in System Verilog.
 
 OTTER hardware uses the RAT Assembly language, and can run assembled RAT programs.
 
